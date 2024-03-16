@@ -1,4 +1,4 @@
-.SUFFIXES : .o .f95
+.SUFFIXES : .o .f90
 
 FC = gfortran
 PREC = dbl
