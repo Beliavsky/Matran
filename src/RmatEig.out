@@ -1,0 +1,29 @@
+  
+ Enter test number
+ Test number  1
+ Enter matrix size 
+ n =  20
+ 1.887578111997639E-15
+  
+ Enter test number
+ Test number  2
+ Enter matrix size 
+ n =  20
+ 1.815941541966404E-15
+  
+ Enter test number
+ Test number  3
+ Enter matrix size 
+ n =  20
+ 1.887578111997639E-15
+  
+ Enter test number
+ Test number  4
+ Enter matrix size 
+ n =  20
+ 1.815941541966404E-15
+  
+ Enter test number
+ Test number  5
+ (4.999999999999997,0.0E+0) (1.0000000000000033,0.0E+0) (3.999999999999995,0.0E+0)
+ (1.9999999999999964,0.0E+0) (3.0,0.0E+0)

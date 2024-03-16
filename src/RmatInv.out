@@ -1,0 +1,38 @@
+  
+ Enter test number
+ Test number  1
+ A%tag = GE
+ 1.1389357993993922E-15
+  
+ Enter test number
+ Test number  2
+ A%tag = HE
+ 3.113432491002139E-15
+  
+ Enter test number
+ Test number  3
+ A%tag = UT
+ 1.5541813771942995E-16
+  
+ Enter test number
+ Test number  4
+ A%tag = LT
+ 1.7324044324631862E-16
+  
+ Enter test number
+ Test number  5
+ A%tag = SP
+ 6.7448267570192324E-15
+  
+ Enter test number
+ Test number  6
+ A%tag = GE, using Ludpp
+ 1.1389357993993922E-15
+ 1.1389357993993922E-15
+  
+ Enter test number
+ Test number  7
+ A%tag = SP, using Chol
+ 6.7448267570192324E-15
+ 6.7448267570192324E-15
+ 6.7448267570192324E-15

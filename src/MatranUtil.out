@@ -1,0 +1,33 @@
+ Enter test number
+ Test number  1
+ This is an error message.
+ Enter test number
+ Test number  2
+ Error in xxxxxx: info = 69
+ Enter test number
+ Test number  3
+ 5
+ 5
+ 7
+ 3 5
+ 3 5
+ 5 2
+ 2 5
+ Enter test number
+ Test number  4
+ 5
+ 5
+ 7
+ 3 5
+ 3 5
+ 5 2
+ 2 5
+ Enter test number
+ Test number  5
+ 5
+ 5
+ 7
+ 3 5
+ 3 5
+ 5 2
+ 2 5
