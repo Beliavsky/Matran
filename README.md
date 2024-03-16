@@ -44,3 +44,13 @@ Matran is at a point where it can perform useful computations (see the last sect
 The addition of types and operations for complex matrices.
 The expansion of the matrix miscelanea class of modules.
 The replacement of pointer arrays with allocatable arrays. This will happen when the allocatable array extensions to Fortran 95 are widely and correctly implemented.
+
+## Copyright
+Matran Copyright (c) 2003 by G. W. Stewart, University of Maryland at College Park, stewart@cs.umd.edu. All Rights Reserved.
+
+### License
+Your use or distribution of Matran or any derivative code implies that you agree to this License.
+
+Permission is hereby granted to use or copy this program, provided that the Copyright, this License, and the Availability note of the original version is retained on all copies. Only the current, umodified version of Matran may be distributed, whether by itself or as part of another program; however, additional modules extending Matran may be appended. Any such distributation stand must cite the Copyright, this License, the Availability note, and "Used by permission."
+
+THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
